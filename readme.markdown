@@ -2,9 +2,13 @@
 
 Inspired by [EFF's Fandom Lists](https://www.eff.org/deeplinks/2018/08/dragon-con-diceware). 
 
-These lists are taken directly from [Aaron Toponce's proposed NEW fandom word lists](https://gist.github.com/atoponce/241abc6977dffeb6f9d724512e4fa339). In each file, there's one word per line.
+These lists are taken directly from [Aaron Toponce's proposed NEW fandom word lists](https://gist.github.com/atoponce/241abc6977dffeb6f9d724512e4fa339). Each list has 4,000 words. In each file, there's one word per line.
+
+More information below.
 
 ## Word list information
+
+These list attributes are printed using a tool called [Tidy](https://github.com/sts10/tidy).
 
 ### Game of Thrones list
 ```text
