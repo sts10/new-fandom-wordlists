@@ -118,8 +118,4 @@ foerost dei mecheaux isorpian comlink faos
 
 ## Profane words
 
-There are a few profane words in these word lists. Feel free to remove them as you wish for your needs.
-
-## Licensing
-
-These word lists are released to the public domain. 
+There are a few profane words in these word lists. Feel free to remove them as you wish for your needs. See LICENSE file for licensing information.
