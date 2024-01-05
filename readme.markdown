@@ -114,7 +114,7 @@ ukio cos wannabes await lowe lullaby
 foerost dei mecheaux isorpian comlink faos
 ```
 
-(These list attributes are printed using a tool called [Tidy](https://github.com/sts10/tidy).)
+(The above list attributes are printed using a tool called [WLA](https://github.com/sts10/wla).)
 
 ## Profane words
 
